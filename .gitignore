@@ -1,3 +1,4 @@
 streamDetect.log
 venv/
 config.ini
+Dockerfile

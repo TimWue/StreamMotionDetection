@@ -70,6 +70,8 @@ if __name__ == '__main__':
               logging.info('Going to sleep ...')
               sleep(60)
               logging.info('Woke up')
+      else:
+          counter = 0
 
 
 
